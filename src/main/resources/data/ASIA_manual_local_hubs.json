@@ -1,0 +1,366 @@
+[{
+    "_id" : "ADL",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "DPS", 
+        "SIN", 
+        "KUL", 
+        "CGK", 
+        "BKK"
+    ]
+},{
+    "_id" : "AMD",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "BOM", 
+        "DEL", 
+        "DBX", 
+        "XNB", 
+        "BKK"
+    ]
+},{
+    "_id" : "ATQ",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "DEL", 
+        "BOM", 
+        "DXB"
+    ]
+},{
+    "_id" : "BLR",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "BOM", 
+        "DEL", 
+        "BKK"
+    ]
+},{
+    "_id" : "BNE",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "DPS", 
+        "SIN"
+    ]
+},{
+    "_id" : "CCU",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "DEL"
+    ]
+},{
+    "_id" : "CMB",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "KUL", 
+        "SIN"
+    ]
+},{
+    "_id" : "CTS",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "HND", 
+        "NRT"
+    ]
+},{
+    "_id" : "DPS",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "KUL", 
+        "CGK", 
+        "SIN", 
+        "BKK"
+    ]
+},{
+    "_id" : "FUK",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "HND", 
+        "NRT"
+    ]
+},{
+    "_id" : "GOI",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "BOM", 
+        "DEL"
+    ]
+},{
+    "_id" : "HAK",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "SIN", 
+        "KUL", 
+        "TPE", 
+        "HKG", 
+        "BKK"
+    ]
+},{
+    "_id" : "HGH",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "HKG"
+    ]
+},{
+    "_id" : "HYD",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "BOM", 
+        "DEL", 
+        "KUL"
+    ]
+},{
+    "_id" : "KIX",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "HND", 
+        "NRT", 
+        "FUK"
+    ]
+},{
+    "_id" : "MEL",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "KUL", 
+        "SIN", 
+        "DPS", 
+        "BKK"
+    ]
+},{
+    "_id" : "OOL",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "DPS", 
+        "KUL", 
+        "SIN", 
+        "BKK"
+    ]
+},{
+    "_id" : "PER",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "DPS", 
+        "KUL", 
+        "SIN", 
+        "BKK"
+    ]
+},{
+    "_id" : "SYD",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "DPS", 
+        "KUL", 
+        "SIN", 
+        "BKK"
+    ]
+},{
+    "_id" : "SYX",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "HKG", 
+        "KUL", 
+        "SIN"
+    ]
+},{
+    "_id" : "SZX",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "SFO", 
+        "BKK", 
+        "SHA", 
+        "KUL", 
+        "XMN"
+    ]
+},{
+    "_id" : "WGL",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "AKL", 
+        "CHC", 
+        "LAX"
+    ]
+},{
+    "_id" : "XIY",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "KUL", 
+        "SIN", 
+        "BKK"
+    ]
+},{
+    "_id" : "XMN",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "HKG", 
+        "CAN"
+    ]
+},{
+    "_id" : "TSN",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "HKG"
+    ]
+},{
+    "_id" : "CXR",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "SGN", 
+        "KUL", 
+        "BKK", 
+        "SIN"
+    ]
+},{
+    "_id" : "KTM",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "DEL"
+    ]
+},{
+    "_id" : "REP",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "KUL", 
+        "SIN", 
+        "BKK", 
+        "HKG", 
+        "SGN"
+    ]
+},{
+    "_id" : "CNX",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "BKK"
+    ]
+},{
+    "_id" : "HAN",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "PEK", 
+        "SIN", 
+        "BKK", 
+        "HKG", 
+        "KUL", 
+        "JKT"
+    ]
+},{
+    "_id" : "PNH",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "KUL", 
+        "SIN", 
+        "BKK", 
+        "SGN"
+    ]
+},{
+    "_id" : "MDL",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "BKK"
+    ]
+},{
+    "_id" : "RGN",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "BKK", 
+        "SGN", 
+        "KUL", 
+        "SIN"
+    ]
+},{
+    "_id" : "LPQ",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "SGN", 
+        "BKK", 
+        "KUL"
+    ]
+},{
+    "_id" : "CEB",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "MNL", 
+        "TPE", 
+        "HKG", 
+        "KUL", 
+        "CAN", 
+        "BKK"
+    ]
+},{
+    "_id" : "URT",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "BKK", 
+        "KUL", 
+        "SIN"
+    ]
+},{
+    "_id" : "HKT",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "BKK"
+    ]
+},{
+    "_id" : "KBV",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "BKK"
+    ]
+},{
+    "_id" : "MFM",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "TPE", 
+        "KHH", 
+        "KUL", 
+        "SIN"
+    ]
+},{
+    "_id" : "CJU",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "ICN", 
+        "MNL", 
+        "HKG"
+    ]
+},{
+    "_id" : "AYT",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "IST"
+    ]
+},{
+    "_id" : "DLM",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "IST"
+    ]
+},{
+    "_id" : "ZUH",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "CSX", 
+        "HKG"
+    ]
+},{
+    "_id" : "KWL",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "BKK", 
+        "SIN", 
+        "KUL", 
+        "CKG"
+    ]
+},{
+    "_id" : "JAI",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "DEL", 
+        "BOM"
+    ]
+},{
+    "_id" : "AGR",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [ 
+        "DEL", 
+        "BOM"
+    ]
+}]

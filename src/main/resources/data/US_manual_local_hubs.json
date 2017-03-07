@@ -1,0 +1,887 @@
+[{
+    "_id" : "DEN",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "SFO",
+        "LAX",
+        "SEA"
+    ]
+},
+
+{
+    "_id" : "ATL",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "NYC",
+        "LAX",
+        "SFO",
+        "SEA",
+        "YVR",
+        "IAH",
+        "YYZ"
+    ]
+},
+
+{
+    "_id" : "CLT",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "NYC",
+        "LAX",
+        "SFO"
+    ]
+},
+
+{
+    "_id" : "LAS",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "LAX",
+        "IAH",
+        "ATL"
+    ]
+},
+{
+    "_id" : "PHX",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "SFO",
+        "LAX",
+        "LGA"
+    ]
+},
+{
+    "_id" : "MIA",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "NYC",
+        "LAX",
+        "IAH"
+    ]
+},
+{
+    "_id" : "MCO",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "NYC",
+        "LAX",
+        "IAH"
+    ]
+},
+{
+    "_id" : "MSP",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "SFO",
+        "SEA",
+        "ORD"
+    ]
+},
+{
+    "_id" : "DTW",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "NYC",
+        "LAX",
+        "ORD"
+    ]
+},
+{
+    "_id" : "PHL",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "SFO",
+        "LAX",
+        "NYC"
+    ]
+},
+{
+    "_id" : "FLL",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "NYC",
+        "LAX",
+        "DFW"
+    ]
+},
+{
+    "_id" : "BWI",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "SFO",
+        "ORD",
+        "BOS"
+    ]
+},
+{
+    "_id" : "IAD",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "NYC",
+        "BOS",
+        "ORD"
+    ]
+},
+{
+    "_id" : "MDW",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "NYC",
+        "ORD",
+        "LAX"
+    ]
+},
+
+
+{
+    "_id" : "DCA",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "NYC",
+        "BOS",
+        "SFO"
+    ]
+},
+{
+    "_id" : "SLC",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "SFO",
+        "LAX",
+        "IAH"
+    ]
+},
+
+
+{
+    "_id" : "HNL",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "SFO",
+        "LAX"
+    ]
+},
+
+
+{
+    "_id" : "SAN",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "SFO",
+        "LAX",
+        "ORD"
+    ]
+},
+
+
+{
+    "_id" : "TPA",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "NYC",
+        "LAX",
+        "ORD"
+    ]
+},
+
+
+{
+    "_id" : "PDX",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "SFO",
+        "LAX",
+        "YVR"
+    ]
+},
+
+
+{
+    "_id" : "STL",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "LAX",
+        "SFO",
+        "SEA"
+    ]
+},
+
+
+{
+    "_id" : "HOU",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "SFO",
+        "NYC",
+        "ORD"
+    ]
+},
+
+
+{
+    "_id" : "BNA",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "BOS",
+        "LAX",
+        "IAH"
+    ]
+},
+
+
+{
+    "_id" : "AUS",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "NYC",
+        "LAX",
+        "SEA"
+    ]
+},
+
+
+{
+    "_id" : "MCI",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "LAX",
+        "SFO",
+        "IAH"
+    ]
+},
+
+
+{
+    "_id" : "OAK",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "LAX",
+        "SEA",
+        "YVR"
+    ]
+},
+
+
+{
+    "_id" : "MSY",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "IAH",
+        "LAX",
+        "ORD"
+    ]
+},
+
+
+{
+    "_id" : "SNA",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "SFO",
+        "LAX",
+        "IAH"
+    ]
+},
+
+
+{
+    "_id" : "RDU",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "NYC",
+        "BOS",
+        "DFW"
+    ]
+},
+
+
+{
+    "_id" : "SJC",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "YVR",
+        "LAX",
+        "SEA"
+    ]
+},
+
+
+{
+    "_id" : "CLE",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "NYC",
+        "LAX",
+        "DFW"
+    ]
+},
+
+
+{
+    "_id" : "SMF",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "SFO",
+        "LAX",
+        "YVR"
+    ]
+},
+
+
+{
+    "_id" : "DAL",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "YVR",
+        "LAX",
+        "NYC"
+    ]
+},
+
+
+{
+    "_id" : "SAT",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "SEA",
+        "LAX",
+        "ORD"
+    ]
+},
+
+
+{
+    "_id" : "PIT",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "NYC",
+        "BOS",
+        "DFW"
+    ]
+},
+
+
+{
+    "_id" : "RSW",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "SFO",
+        "NYC",
+        "DFW"
+    ]
+},
+
+
+{
+    "_id" : "IND",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "NYC",
+        "LAX",
+        "SFO"
+    ]
+},
+
+
+{
+    "_id" : "MKE",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "NYC",
+        "LAX",
+        "SFO"
+    ]
+},
+
+
+{
+    "_id" : "CMH",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "DFW",
+        "LAX",
+        "NYC"
+    ]
+},
+
+
+{
+    "_id" : "PBI",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "BOS",
+        "NYC",
+        "SFO"
+    ]
+},
+
+
+{
+    "_id" : "CVG",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "IAH",
+        "LAX",
+        "SFO"
+    ]
+},
+
+
+{
+    "_id" : "ABQ",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "LAX",
+        "SFO",
+        "SEA"
+    ]
+},
+
+
+{
+    "_id" : "BDL",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "NYC",
+        "BOS",
+        "ORD"
+    ]
+},
+
+
+{
+    "_id" : "JAX",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "NYC",
+        "IAH",
+        "BOS"
+    ]
+},
+
+
+{
+    "_id" : "BUF",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "NYC",
+        "BOS",
+        "ORD"
+    ]
+},
+
+
+{
+    "_id" : "ONT",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "SFO",
+        "SEA",
+        "BOS"
+    ]
+},
+
+
+{
+    "_id" : "BUR",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "SFO",
+        "NYC",
+        "SEA"
+    ]
+},
+
+
+{
+    "_id" : "OKC",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "LAX",
+        "SFO",
+        "DFW"
+    ]
+},
+
+
+{
+    "_id" : "RND",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "SFO",
+        "LAX",
+        "SEA"
+    ]
+},
+
+
+{
+    "_id" : "RIC",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "BOS",
+        "ORD",
+        "NYC"
+    ]
+},
+
+
+{
+    "_id" : "ORF",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "JFK",
+        "YYZ",
+        "ORD"
+    ]
+},
+
+
+{
+    "_id" : "TUS",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "LAX",
+        "SEA",
+        "YVR",
+        "IAH",
+        "DFW"
+    ]
+},
+
+
+{
+    "_id" : "ELP",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "SFO",
+        "JFK",
+        "YVR",
+        "IAH",
+        "ORD",
+        "DFW"
+    ]
+},
+
+
+{
+    "_id" : "CHS",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "NYC",
+        "BOS",
+        "IAD"
+    ]
+},
+
+
+{
+    "_id" : "LGB",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "LAX",
+        "SFO",
+        "SEA"
+    ]
+},
+
+
+{
+    "_id" : "BHM",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "NYC",
+        "DFW",
+        "IAH",
+        "YYZ"
+    ]
+},
+
+
+{
+    "_id" : "GEG",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "LAX",
+        "SFO",
+        "SEA"
+    ]
+},
+
+
+{
+    "_id" : "TUL",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "NYC",
+        "LAX",
+        "SFO"
+    ]
+},
+
+
+{
+    "_id" : "BOI",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "LAX",
+        "SFO",
+        "SEA"
+    ]
+},
+
+
+{
+    "_id" : "DAY",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "EWR",
+        "YVR",
+        "ORD"
+    ]
+},
+
+
+{
+    "_id" : "ROC",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "NYC",
+        "ORD"
+    ]
+},
+
+
+{
+    "_id" : "ALB",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "EWR",
+        "LAX",
+        "DFW"
+    ]
+},
+
+
+{
+    "_id" : "MHT",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "YYZ",
+        "LAX",
+        "SFO"
+    ]
+},
+
+
+{
+    "_id" : "GRR",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "BOS",
+        "JFK",
+        "EWR"
+    ]
+},
+
+
+{
+    "_id" : "LIT",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "SFO",
+        "LAX",
+        "YVR",
+        "EWR",
+        "BOS"
+    ]
+},
+
+
+{
+    "_id" : "DSM",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "LAX",
+        "SEA",
+        "ORD",
+        "DFW",
+        "NYC"
+    ]
+},
+
+
+{
+    "_id" : "SYR",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "NYC",
+        "DFW",
+        "IAH",
+        "LAX"
+    ]
+},
+
+
+{
+    "_id" : "SFB",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "DFW",
+        "IAH",
+        "LAX",
+        "NYC"
+    ]
+},
+
+
+{
+    "_id" : "GSP",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "DFW",
+        "IAH",
+        "LAX",
+        "BOS",
+        "ORD"
+    ]
+},
+
+
+{
+    "_id" : "PSP",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "SEA",
+        "YVR",
+        "LAX",
+        "ORD",
+        "SFO",
+        "YYV"
+    ]
+},
+
+
+{
+    "_id" : "GSD",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "NYC",
+        "IAH",
+        "BOS"
+    ]
+},
+
+
+{
+    "_id" : "CAK",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "NYC",
+        "IAH",
+        "ORD",
+        "BOS",
+        "DFW"
+    ]
+},
+
+
+{
+    "_id" : "MYR",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "NYC",
+        "ORD",
+        "DFW",
+        "IAH",
+        "BOS",
+        "LAX"
+    ]
+},
+
+
+{
+    "_id" : "TYS",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "NYC",
+        "DFW",
+        "ORD",
+        "IAH",
+        "LAX"
+    ]
+},
+
+
+{
+    "_id" : "MSN",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "LAX",
+        "IAH",
+        "SFO",
+        "ORD"
+    ]
+},
+
+
+{
+    "_id" : "PWM",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "LAX",
+        "SFO",
+        "DFW",
+        "SEA",
+        "NYC",
+        "ORD",
+        "IAH"
+    ]
+},
+
+
+{
+    "_id" : "SAV",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "BOS",
+        "NYC",
+        "IAH",
+        "LAX"
+    ]
+},
+
+
+{
+    "_id" : "HPN",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "ORD",
+        "BOS",
+        "IAH",
+        "LAX"
+    ]
+},
+
+
+{
+    "_id" : "ICT",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "SEA",
+        "DFW",
+        "LAX"
+    ]
+},
+
+
+{
+    "_id" : "PNS",
+    "_class" : "com.unboundly.api.entities.domain.geo.ManualLocalHub",
+    "hubs" : [
+        "LAX",
+        "DFW",
+        "IAH"
+    ]
+}
+]

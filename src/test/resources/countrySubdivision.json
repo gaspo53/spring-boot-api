@@ -1,0 +1,232 @@
+[
+    {
+        "continent": "A",
+        "countries": [
+            {
+                "country": "TH",
+                "airports": [
+                    {
+                        "airport": "BAO",
+                        "countrySubdivision": "41",
+                        "locodeEntry": ",TH,BAO,Ban Mak Khaen,Ban Mak Khaen,,AI,---4----,0001,,,"
+                    },
+                    {
+                        "airport": "BKK",
+                        "countrySubdivision": "10",
+                        "locodeEntry": ",TH,BKK,Bangkok,Bangkok,10,AI,12345---,1207,,1345N 10031E,"
+                    },
+                    {
+                        "airport": "BFV",
+                        "countrySubdivision": "31",
+                        "locodeEntry": ",TH,BFV,Buri Ram,Buri Ram,,AI,---4----,0001,,,"
+                    },
+                    {
+                        "airport": "CNX",
+                        "countrySubdivision": "50",
+                        "locodeEntry": ",TH,CNX,Chiang Mai,Chiang Mai,,AI,---4----,9601,,,"
+                    },
+                    {
+                        "airport": "CEI",
+                        "countrySubdivision": "57",
+                        "locodeEntry": ",TH,CEI,Chiang Rai,Chiang Rai,,AI,---4----,9601,,,"
+                    },
+                    {
+                        "airport": "DMK",
+                        "countrySubdivision": "10",
+                        "locodeEntry": ",TH,DMK,Don Muang Airport/Bangkok,Don Muang Airport/Bangkok,10,AI,---4----,1207,,1355N 10037E,"
+                    },
+                    {
+                        "airport": "HDY",
+                        "countrySubdivision": "90",
+                        "locodeEntry": ",TH,HDY,Hat Yai,Hat Yai,,AI,1--45---,9805,,,"
+                    },
+                    {
+                        "airport": "HHQ",
+                        "countrySubdivision": "77",
+                        "locodeEntry": ",TH,HHQ,Hua Hin,Hua Hin,,AI,---4----,0001,,,"
+                    },
+                    {
+                        "airport": "KKC",
+                        "countrySubdivision": "40",
+                        "locodeEntry": ",TH,KKC,Khon Kaen,Khon Kaen,40,AI,-234-6--,1001,,1626N 10250E,"
+                    },
+                    {
+                        "airport": "USM",
+                        "countrySubdivision": "84",
+                        "locodeEntry": ",TH,USM,Koh Samui,Koh Samui,,AI,1--4----,9601,,,"
+                    },
+                    {
+                        "airport": "KBV",
+                        "countrySubdivision": "81",
+                        "locodeEntry": ",TH,KBV,Krabi,Krabi,,AI,1--4----,9601,,,"
+                    },
+                    {
+                        "airport": "LPT",
+                        "countrySubdivision": "52",
+                        "locodeEntry": ",TH,LPT,Lampang,Lampang,,AI,---4----,9601,,,"
+                    },
+                    {
+                        "airport": "LOE",
+                        "countrySubdivision": "42",
+                        "locodeEntry": ",TH,LOE,Loei,Loei,,AI,---4----,9601,,,"
+                    },
+                    {
+                        "airport": "KKM",
+                        "countrySubdivision": "16",
+                        "locodeEntry": ",TH,KKM,Lop Buri,Lop Buri,,AI,---4----,0001,,,"
+                    },
+                    {
+                        "airport": "HGN",
+                        "countrySubdivision": "58",
+                        "locodeEntry": ",TH,HGN,Mae Hong Son,Mae Hong Son,,AI,---4----,9601,,,"
+                    },
+                    {
+                        "airport": "MAQ",
+                        "countrySubdivision": "63",
+                        "locodeEntry": ",TH,MAQ,Mae Sot,Mae Sot,,AI,---4----,0001,,,"
+                    },
+                    {
+                        "airport": "KOP",
+                        "countrySubdivision": "48",
+                        "locodeEntry": ",TH,KOP,Nakhom Phanom,Nakhom Phanom,,QQ,---4----,8103,,,"
+                    },
+                    {
+                        "airport": "NAK",
+                        "countrySubdivision": "30",
+                        "locodeEntry": ",TH,NAK,Nakhon Ratchasima,Nakhon Ratchasima,,AI,---4----,0001,,,"
+                    },
+                    {
+                        "airport": "NST",
+                        "countrySubdivision": "80",
+                        "locodeEntry": ",TH,NST,Nakhon Si Thammarat,Nakhon Si Thammarat,,RL,1-34----,0201,,0825N 09957E,"
+                    },
+                    {
+                        "airport": "NNT",
+                        "countrySubdivision": "55",
+                        "locodeEntry": ",TH,NNT,Nan,Nan,,AI,---4----,9601,,,"
+                    },
+                    {
+                        "airport": "NAW",
+                        "countrySubdivision": "96",
+                        "locodeEntry": ",TH,NAW,Narathiwat,Narathiwat,,AI,1--4----,9601,,,"
+                    },
+                    {
+                        "airport": "QJX",
+                        "countrySubdivision": "43",
+                        "locodeEntry": ",TH,QJX,Nong Khai,Nong Khai,43,AI,--345---,0401,,1752N 10244E,"
+                    },
+                    {
+                        "airport": "PBS",
+                        "countrySubdivision": "83",
+                        "locodeEntry": ",TH,PBS,Patong Beach,Patong Beach,,AI,---4----,0001,,,"
+                    },
+                    {
+                        "airport": "PAN",
+                        "countrySubdivision": "94",
+                        "locodeEntry": ",TH,PAN,Pattani,Pattani,,AI,1--4----,9601,,,"
+                    },
+                    {
+                        "airport": "PYX",
+                        "countrySubdivision": "20",
+                        "locodeEntry": ",TH,PYX,Pattaya,Pattaya,20,RL,-234----,0907,,1256N 10053E,"
+                    },
+                    {
+                        "airport": "PMM",
+                        "countrySubdivision": "24",
+                        "locodeEntry": ",TH,PMM,Phanom Sarakham,Phanom Sarakham,,AI,---4----,0001,,,"
+                    },
+                    {
+                        "airport": "PHZ",
+                        "countrySubdivision": "81",
+                        "locodeEntry": ",TH,PHZ,Phi Phi Island,Phi Phi Island,,AI,---4----,0001,,,"
+                    },
+                    {
+                        "airport": "PHS",
+                        "countrySubdivision": "65",
+                        "locodeEntry": ",TH,PHS,Phitsanulok,Phitsanulok,,AI,---4----,9601,,,"
+                    },
+                    {
+                        "airport": "PRH",
+                        "countrySubdivision": "54",
+                        "locodeEntry": ",TH,PRH,Phrae,Phrae,,AI,---4----,9601,,,"
+                    },
+                    {
+                        "airport": "HKT",
+                        "countrySubdivision": "83",
+                        "locodeEntry": ",TH,HKT,Phuket,Phuket,,AI,1--4----,9601,,,"
+                    },
+                    {
+                        "airport": "UNN",
+                        "countrySubdivision": "85",
+                        "locodeEntry": ",TH,UNN,Ranong,Ranong,,AI,1--4----,9601,,,"
+                    },
+                    {
+                        "airport": "ROI",
+                        "countrySubdivision": "45",
+                        "locodeEntry": ",TH,ROI,Roi Et,Roi Et,,AI,---4----,0001,,,"
+                    },
+                    {
+                        "airport": "SNO",
+                        "countrySubdivision": "47",
+                        "locodeEntry": ",TH,SNO,Sakon Nakhon,Sakon Nakhon,,AI,---4----,0001,,,"
+                    },
+                    {
+                        "airport": "SGZ",
+                        "countrySubdivision": "90",
+                        "locodeEntry": ",TH,SGZ,Songkhla,Songkhla,90,AI,1-34----,0401,,0712N 10036E,"
+                    },
+                    {
+                        "airport": "THS",
+                        "countrySubdivision": "64",
+                        "locodeEntry": ",TH,THS,Sukhothai,Sukhothai,,AI,---4----,0001,,,"
+                    },
+                    {
+                        "airport": "URT",
+                        "countrySubdivision": "84",
+                        "locodeEntry": ",TH,URT,Surat Thani,Surat Thani,,AI,---4----,0001,,,"
+                    },
+                    {
+                        "airport": "SIA",
+                        "countrySubdivision": "11",
+                        "locodeEntry": ",TH,SIA,Suvarnabhumi International Apt,Suvarnabhumi International Apt,11,RL,--34----,0901,,1343N 10047E,"
+                    },
+                    {
+                        "airport": "TKT",
+                        "countrySubdivision": "63",
+                        "locodeEntry": ",TH,TKT,Tak,Tak,,AI,---4----,0001,,,"
+                    },
+                    {
+                        "airport": "TKH",
+                        "countrySubdivision": "60",
+                        "locodeEntry": ",TH,TKH,Takhli,Takhli,,AI,---4----,0001,,,"
+                    },
+                    {
+                        "airport": "TST",
+                        "countrySubdivision": "92",
+                        "locodeEntry": ",TH,TST,Trang,Trang,,AI,1--4----,9601,,,"
+                    },
+                    {
+                        "airport": "UBP",
+                        "countrySubdivision": "34",
+                        "locodeEntry": ",TH,UBP,Ubon Ratchathani,Ubon Ratchathani,,AI,---4----,9601,,,"
+                    },
+                    {
+                        "airport": "UTH",
+                        "countrySubdivision": "41",
+                        "locodeEntry": ",TH,UTH,Udon Thani,Udon Thani,,AI,---4----,9601,,,"
+                    },
+                    {
+                        "airport": "UTP",
+                        "countrySubdivision": "21",
+                        "locodeEntry": ",TH,UTP,Utapao,Utapao,,AI,---4----,0001,,,"
+                    },
+                    {
+                        "airport": "UTR",
+                        "countrySubdivision": "53",
+                        "locodeEntry": ",TH,UTR,Uttaradit,Uttaradit,,AI,---4----,0001,,,"
+                    }
+                ]
+            }
+        ]
+    }
+]

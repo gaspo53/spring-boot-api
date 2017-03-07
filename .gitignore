@@ -1,0 +1,19 @@
+target
+*.class
+.classpath
+.project
+.settings
+bin
+# Package Files #
+*.log
+*.war
+*.ear
+api-data-source-rest/wsdl-classes-sources/
+build/
+/.gradle
+target/
+/jsp/
+*.sublime-project
+*.sublime-workspace
+*.DS_Store
+var/
