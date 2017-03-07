@@ -6,10 +6,8 @@ package com.example.api.entities;
 
 import com.fasterxml.jackson.databind.PropertyNamingStrategy;
 import com.fasterxml.jackson.databind.PropertyNamingStrategy.LowerCaseStrategy;
-import com.fasterxml.jackson.databind.PropertyNamingStrategy.LowerCaseWithUnderscoresStrategy;
-import com.fasterxml.jackson.databind.PropertyNamingStrategy.PascalCaseStrategy;
 import com.fasterxml.jackson.databind.PropertyNamingStrategy.SnakeCaseStrategy;
-import com.fasterxml.jackson.databind.PropertyNamingStrategy.UpperCamelCaseStrategy;
+import com.fasterxml.jackson.databind.PropertyNamingStrategy.UpperCamelCaseStrategy;;
 
 /**
  * @author gaspar

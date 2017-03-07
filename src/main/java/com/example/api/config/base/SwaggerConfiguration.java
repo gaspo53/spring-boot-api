@@ -25,6 +25,7 @@ import springfox.documentation.schema.WildcardType;
 import springfox.documentation.service.ApiInfo;
 import springfox.documentation.service.ApiKey;
 import springfox.documentation.service.AuthorizationScope;
+import springfox.documentation.service.Contact;
 import springfox.documentation.service.SecurityReference;
 import springfox.documentation.spi.DocumentationType;
 import springfox.documentation.spi.service.contexts.SecurityContext;
@@ -87,7 +88,7 @@ public class SwaggerConfiguration {
                 "Bla bla.",
                 "1.0",
                 "hello@example.com",
-                "Example.com",
+                new Contact("Example.com", "", ""),
                 "API License URL", null
         );
         return apiInfo;

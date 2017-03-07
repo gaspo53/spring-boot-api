@@ -70,7 +70,7 @@ public abstract class AbstractYamlHttpMessageConverter<T> extends AbstractHttpMe
 
 	private Charset getCharset(HttpHeaders headers) {
 		MediaType contentType = headers.getContentType();
-		return contentType.getCharSet() != null ? contentType.getCharSet()
+		return contentType.getCharset() != null ? contentType.getCharset()
 				: DEFAULT_CHARSET;
 	}
 
